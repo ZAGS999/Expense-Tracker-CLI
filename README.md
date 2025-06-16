@@ -16,5 +16,7 @@ This project allows users to log daily expenses, view all entries, calculate tot
 - Python 3
 - Built-in `csv` and `datetime` libraries
 
-
+## Future Versions 
+- Upgrade to GUI interface
+- Make monthly reports from `csv`
 
